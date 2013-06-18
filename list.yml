@@ -46,3 +46,9 @@
   name: Ember Query
   tldr: Query string support
   description: A library enabling url query parameters to be used in ember applications. This feature is slated to be included in Ember.js 1.1.
+
+- author: Andy Leeper (MochaLeaf)
+  link: https://github.com/Mochaleaf/ArrayPipeline
+  name: ArrayPipeline
+  tldr: Chainable operations for arrays
+  description: ArrayPipelineMixin is an Ember Mixin that can be used to perform a set of piped operations on an Array via a series of ordered Ember.PipePlugin subclasses.  It's sort of like unix pipes for Ember Arrays.
